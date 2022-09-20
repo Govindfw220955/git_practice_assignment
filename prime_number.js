@@ -1,3 +1,4 @@
+
 function Prime(number) {
   
     let factors=0;
